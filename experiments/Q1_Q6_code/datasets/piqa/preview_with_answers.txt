@@ -1,0 +1,300 @@
+### piqa [0]
+Goal: When boiling butter, when it's ready, you can
+Solution1: Pour it onto a plate
+Solution2: Pour it into a jar
+Answer: 1
+
+### piqa [1]
+Goal: To permanently attach metal legs to a chair, you can
+Solution1: Weld the metal together to get it to stay firmly in place
+Solution2: Nail the metal together to get it to stay firmly in place
+Answer: 0
+
+### piqa [2]
+Goal: how do you indent something?
+Solution1: leave a space before starting the writing
+Solution2: press the spacebar
+Answer: 0
+
+### piqa [3]
+Goal: how do you shake something?
+Solution1: move it up and down and side to side quickly.
+Solution2: stir it very quickly.
+Answer: 0
+
+### piqa [4]
+Goal: Clean tires
+Solution1: Pour water, cape off caked on dirt. Use  speed wool to clean out crevices and sparrow spaces.
+Solution2: Pour water, scrape off caked on dirt. Use a steel wool to clean out crevices and narrow spaces.
+Answer: 1
+
+### piqa [5]
+Goal: how do you taste something?
+Solution1: smell it enough to taste it.
+Solution2: place it in your mouth to taste.
+Answer: 1
+
+### piqa [6]
+Goal: To create a makeshift ice pack,
+Solution1: take a sponge and soak it in oil. Put the sponge in a refrigerator and let it freeze. Once frozen, take it out and put it in a ziploc bag. You can now use it as an ice pack.
+Solution2: take a sponge and soak it in water. Put the sponge in a refrigerator and let it freeze. Once frozen, take it out and put it in a ziploc bag. You can now use it as an ice pack.
+Answer: 1
+
+### piqa [7]
+Goal: What should I use as a stain on a wooden bowl I've just made.
+Solution1: You should coat the wooden bowl with a butcher block oil & finish per manufacturer directions.
+Solution2: You should coat the wooden bowl with a butcher knife oil & finish per manufacturer directions.
+Answer: 0
+
+### piqa [8]
+Goal: How to boil eggs.
+Solution1: Place your eggs in a pot and cover with no water by 1 inch, bring to a boil over medium-high heat, then cover, remove from the heat and set aside 8 to 10 minutes.
+Solution2: Place your eggs in a pot and cover with cold water by 1 inch, bring to a boil over medium-high heat, then cover, remove from the heat and set aside 8 to 10 minutes.
+Answer: 1
+
+### piqa [9]
+Goal: how do you stab something?
+Solution1: stick a sharp object through it.
+Solution2: pin it with a sharp object.
+Answer: 0
+
+### piqa [10]
+Goal: How to quickly soften butter for baking?
+Solution1: Place the stick of butter inside a freezer bag and beat it with a wooden rolling pin
+Solution2: Place the stick of butter atop a freezer bag and beat it with a wooden rolling pin
+Answer: 0
+
+### piqa [11]
+Goal: How can I save my milk if I am going to be leaving town for a bit?
+Solution1: Freeze the milk, but make sure the jug is not more than 5/4 full at most. Then just let the milk thaw when you get back.
+Solution2: Freeze the milk, but make sure the jug is not more than 3/4 full at most. Then just let the milk thaw when you get back.
+Answer: 1
+
+### piqa [12]
+Goal: how do you open a capri-sun
+Solution1: open the straw attached to the juice, and then stick it in the small hole at the front of the pouch.
+Solution2: cut the top off with scissors
+Answer: 0
+
+### piqa [13]
+Goal: how do you turn on an ipad screen?
+Solution1: press the volume button.
+Solution2: press the lock button.
+Answer: 1
+
+### piqa [14]
+Goal: How to season raw chicken.
+Solution1: Put seasoning into bowl, then place raw chicken in the bowl and coat with seasoning.
+Solution2: Put seasoning into measuring cup, then place raw chicken in the measuring cup and coat with seasoning.
+Answer: 0
+
+### piqa [15]
+Goal: pin
+Solution1: can melt a grater 
+Solution2: can fit through a  grater 
+Answer: 1
+
+### piqa [16]
+Goal: How to tie pieces of paper together.
+Solution1: Thread ruler through the holes and tie in a bow.
+Solution2: Thread ribbon through the holes and tie in a bow.
+Answer: 1
+
+### piqa [17]
+Goal: how do you get leg muscles?
+Solution1: work out your upper body.
+Solution2: work out your legs.
+Answer: 1
+
+### piqa [18]
+Goal: To make a tomato sauce taste more like a pizza sauce,
+Solution1: mix extra paprika into the sauce to brighten the flavor.
+Solution2: mix a little bit of sugar into the sauce to sweeten it.
+Answer: 1
+
+### piqa [19]
+Goal: how do you draw with chalk?
+Solution1: melt the chalk onto pavement.
+Solution2: use the chalk like a pen on pavement.
+Answer: 1
+
+### piqa [20]
+Goal: Convert unused paint to solid waste.
+Solution1: Pour cat litter into paint can.
+Solution2: Pour cat waste into paint can.
+Answer: 0
+
+### piqa [21]
+Goal: How to check your Facebook feed
+Solution1: Log in to Facebook. Click on the bell shaped button at the top right of your Facebook home window.
+Solution2: Log in to Facebook. Click on the bell shaped button at the top left of your Facebook home window.
+Answer: 0
+
+### piqa [22]
+Goal: How to Prepare Puffed Pastry for Baked Brie Pumpkin
+Solution1: To prepare the puff pastry for your baked pumpkin, Line a baking sheet with a piece of parchment. Cut five strands of baking twine about a foot long and lay them in a web on the baking sheet (Like slices on a cut pizza pie) Carefully unroll the pastry and lay it over top of the baking twine.
+Solution2: To prepare the puff pastry for your baked pumpkin, Line a baking sheet with a piece of parchment. Cut five strands of fishing line about a foot long and lay them in a web on the baking sheet (Like slices on a cut pizza pie) Carefully unroll the pastry and lay it over top of the fishing line.
+Answer: 0
+
+### piqa [23]
+Goal: how do I make chocolate pasta?
+Solution1: grate a bar of chocolate over the top of the bowl, before adding the egg.
+Solution2: add cocoa powder to the flour
+Answer: 1
+
+### piqa [24]
+Goal: how do you flood a room?
+Solution1: fill it with objects.
+Solution2: fill it with water.
+Answer: 1
+
+### piqa [25]
+Goal: How else can you mix the biscuits and butter if you do not have a food processor when making a chocolate nutella tart?
+Solution1: If you do not have a blender, you can crush the cookies in a ziplog bag with a rolling pin and mix in the butter with your hands.
+Solution2: If you do not have a blender, you can crush the cookies in a ziplog bag with a rolling pin and mix in the butter with a grater.
+Answer: 0
+
+### piqa [26]
+Goal: What is the best way to make a black tiger shirt?
+Solution1: You need a black shirt, rubber bands, and some sun.
+Solution2: You need a black shirt, rubber bands,and a bleach pen.
+Answer: 1
+
+### piqa [27]
+Goal: How can I get oil stains out of my driveway?
+Solution1: Douse each stain with a couple cans of beer.
+Solution2: Douse each stain with a couple cans of soda.
+Answer: 1
+
+### piqa [28]
+Goal: How to prepare a bath.
+Solution1: Unplug the drain in the bath tub. Turn on the faucet to make water come out at the desired temperature, usually warm or hot. Wait until the bath is at least half full, but not completely full. Add some soap if desired.
+Solution2: Plug the drain in the bath tub. Turn on the faucet to make water come out at the desired temperature, usually warm or hot. Wait until the bath is at least half full, but not completely full. Add some soap if desired.
+Answer: 1
+
+### piqa [29]
+Goal: Soothe a painful sunburn.
+Solution1: Wait until brewed tea bag is cool, then apply on burn.
+Solution2: Wait until brewed tea bag is hot, then apply on burn.
+Answer: 0
+
+### piqa [30]
+Goal: To Make a Breakfast Pizza
+Solution1: To prepare eggs to top your breakfast pizza, pour five beaten eggs into a pan and gently scramble over low-medium heat. Season with salt and pepper and be careful not to overcook.
+Solution2: To prepare eggs to top your breakfast pizza, pour five beaten eggs into a pan and gently scramble over low-medium heat. Season with salt and pepper and be careful not to thoroughly burn.
+Answer: 0
+
+### piqa [31]
+Goal: To french manicure your nails, you can
+Solution1: Paint a thin strip across the top
+Solution2: Paint the entire nail
+Answer: 0
+
+### piqa [32]
+Goal: how do you save a picture you took on your iphone?
+Solution1: take the picture and click save after.
+Solution2: take the picture, and it stores to your albums automatically
+Answer: 1
+
+### piqa [33]
+Goal: To create a basic wooden serving tray,
+Solution1: Use a strong, preferably finished wooden base. Screw in wooden handles from the bottom of the base into the handles for easier holding
+Solution2: Use a strong, preferably finished wooden base. Screw in wooden frames from the bottom of the base into the handles for easier holding
+Answer: 0
+
+### piqa [34]
+Goal: What can I use for fuel in an alcohol stove?
+Solution1: Use acetone.
+Solution2: Use vinegar.
+Answer: 0
+
+### piqa [35]
+Goal: To crush the petals of a flower, you can
+Solution1: Use a hammer and nails
+Solution2: Use a mortar and pestle
+Answer: 1
+
+### piqa [36]
+Goal: To attach sections of copper heating pipe together, you can
+Solution1: Use epoxy to hold the sections of pipe in place
+Solution2: Use masking tape to hold the sections of pipe in place
+Answer: 0
+
+### piqa [37]
+Goal: shovel
+Solution1: can reload a camera with film
+Solution2: can break a camera. camera 
+Answer: 1
+
+### piqa [38]
+Goal: To get cash for old, unused drinking bottles,
+Solution1: take the bottles to a grocery store with a recycling center.
+Solution2: stand on the street selling the bottles for a small price.
+Answer: 0
+
+### piqa [39]
+Goal: How do you calculate your gas mileage?
+Solution1: Divide your mileage on one tank of gas by the capacity of your tank in gallons.
+Solution2: Take the total mileage of your car and divide it by the number of year you have had it.
+Answer: 0
+
+### piqa [40]
+Goal: How can I grow tomatoes without a garden?
+Solution1: Plant in full five gallon buckets.
+Solution2: Plant in empty five gallon buckets.
+Answer: 1
+
+### piqa [41]
+Goal: How to prevent pain while cutting your nails?
+Solution1: Dip your nails inside lukewarm water for 5 minutes before cutting.
+Solution2: Cutting nails doesn't cause pain as nails don't have sensation.
+Answer: 1
+
+### piqa [42]
+Goal: How to shower correctly
+Solution1: Open the curtain, get in, take the soap and spread it across your body, then rinse off and dry
+Solution2: Open the curtain, get in, take the soap and spread it across your body, then rinse off and repeat
+Answer: 0
+
+### piqa [43]
+Goal: Clean residue off a drill bit
+Solution1: Mix a 1:1 solution of laundry detergent and water in a bowl, and allow your drill bits to soak for about 10 minutes. Remove from water , dry completely with a rag.
+Solution2: Mix a 1:1 solution of laundry detergent and water in a strainer, and allow your drill bits to soak for about 10 minutes. Remove from water , dry completely with a rag.
+Answer: 0
+
+### piqa [44]
+Goal: how do I make lamb cutlets?
+Solution1: 12  lamb cutlets    6 slices bacon chopped    1/2 cup bbq sauce    1 tablespoon fresh rosemary leaves    Instructions    In a large frying pan over moderate high heat cook cutlets 2 to 3 minutes.    Turn and cook for 2 to 3 minutes.    Set aside, cover with foil.    Into pan juices, sauté bacon until golden.    Add brown gravy and rosemary. Stir.    Place cutlets onto serving board or plate and top with sticky bacon mix.
+Solution2: 12  lamb cutlets    6 slices bacon chopped    1/2 cup bbq sauce    1 tablespoon fresh rosemary leaves    Instructions    In a large frying pan over moderate high heat cook cutlets 2 to 3 minutes.    Turn and cook for 2 to 3 minutes.    Set aside, cover with foil.    Into pan juices, sauté bacon until golden.    Add BBQ sauce and rosemary. Stir.    Place cutlets onto serving board or plate and top with sticky bacon mix.
+Answer: 1
+
+### piqa [45]
+Goal: how to avoid danger?
+Solution1: do not engage in risky behaviors
+Solution2: only engage in risky behaviors
+Answer: 0
+
+### piqa [46]
+Goal: How do you get the water temperature right to take a shower?
+Solution1: Turn on the water and let it run until it is warm, check the position of the shower head to make sure it is spraying down and not out of the shower, test the water with your wrist rather then you fingers and determine if the water is comfortable before you get in.
+Solution2: Turn on the water and let it run until it is warm, check the position of the shower head to make sure it is spraying down and not out of the shower, test the water with your head rather then you fingers and determine if the water is comfortable before you get in.
+Answer: 0
+
+### piqa [47]
+Goal: How do I remove vinyl wall art from the walls?
+Solution1: Use the edge of a toothpick to scrape under the edges without damaging the paint underneath
+Solution2: Use the edge of a library card scrape under the edges without damaging the paint underneath
+Answer: 1
+
+### piqa [48]
+Goal: One seeks to decorate their fire place.
+Solution1: One could put a decorative log in.
+Solution2: One could put a decorative mantle in.
+Answer: 1
+
+### piqa [49]
+Goal: To prevent eye infections,
+Solution1: replace your mascara with a new tube every three months.
+Solution2: replace your mascara with a new shade every three months.
+Answer: 0
+

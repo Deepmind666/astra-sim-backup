@@ -1,0 +1,70 @@
+{
+  "builder_name": "parquet",
+  "citation": "",
+  "config_name": "winogrande_xl",
+  "dataset_name": "winogrande",
+  "dataset_size": 5577568,
+  "description": "",
+  "download_checksums": {
+    "hf://datasets/winogrande@01e74176c63542e6b0bcb004dcdea22d94fb67b5/winogrande_xl/train-00000-of-00001.parquet": {
+      "num_bytes": 2058506,
+      "checksum": null
+    },
+    "hf://datasets/winogrande@01e74176c63542e6b0bcb004dcdea22d94fb67b5/winogrande_xl/test-00000-of-00001.parquet": {
+      "num_bytes": 117656,
+      "checksum": null
+    },
+    "hf://datasets/winogrande@01e74176c63542e6b0bcb004dcdea22d94fb67b5/winogrande_xl/validation-00000-of-00001.parquet": {
+      "num_bytes": 85928,
+      "checksum": null
+    }
+  },
+  "download_size": 2262090,
+  "features": {
+    "sentence": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "option1": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "option2": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "answer": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 7839658,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 5185752,
+      "num_examples": 40398,
+      "dataset_name": "winogrande"
+    },
+    "test": {
+      "name": "test",
+      "num_bytes": 227633,
+      "num_examples": 1767,
+      "dataset_name": "winogrande"
+    },
+    "validation": {
+      "name": "validation",
+      "num_bytes": 164183,
+      "num_examples": 1267,
+      "dataset_name": "winogrande"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

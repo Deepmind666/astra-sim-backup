@@ -1,0 +1,14 @@
+{
+  "model_id": "Qwen/Qwen1.5-MoE-A2.7B",
+  "dataset_config": {
+    "source": "local",
+    "name": "samsum",
+    "local_path": "../datasets/samsum",
+    "split": "train",
+    "text_field": "dialogue",
+    "prompt_template": "Summarize the dialogue:\n{dialogue}\nSummary:"
+  },
+  "max_samples": -1,
+  "batch_size": 4,
+  "max_length": 2048
+}

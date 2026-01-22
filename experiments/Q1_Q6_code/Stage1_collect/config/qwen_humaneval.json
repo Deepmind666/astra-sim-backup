@@ -1,0 +1,14 @@
+{
+  "model_id": "C:/astra-sim/experiments/model/Qwen1.5-MoE-A2.7B",
+  "dataset_config": {
+    "source": "local",
+    "name": "humaneval",
+    "local_path": "../datasets/humaneval/humaneval.txt",
+    "split": "test",
+    "text_field": "text"
+  },
+  "max_samples": -1,
+  "batch_size": 16,
+  "max_length": 2048
+}
+

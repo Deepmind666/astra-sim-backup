@@ -1,0 +1,58 @@
+{
+  "builder_name": "parquet",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "cmrc2018",
+  "dataset_size": 22301356,
+  "description": "",
+  "download_checksums": {
+    "hf://datasets/cmrc2018@137f2c45a24275fb68f6961c4d357f46288886aa/data/train-00000-of-00001.parquet": {
+      "num_bytes": 3365898,
+      "checksum": null
+    },
+    "hf://datasets/cmrc2018@137f2c45a24275fb68f6961c4d357f46288886aa/data/validation-00000-of-00001.parquet": {
+      "num_bytes": 1136115,
+      "checksum": null
+    },
+    "hf://datasets/cmrc2018@137f2c45a24275fb68f6961c4d357f46288886aa/data/test-00000-of-00001.parquet": {
+      "num_bytes": 394683,
+      "checksum": null
+    }
+  },
+  "download_size": 4896696,
+  "features": {
+    "text": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 27198052,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 15509330,
+      "num_examples": 10142,
+      "dataset_name": "cmrc2018"
+    },
+    "validation": {
+      "name": "validation",
+      "num_bytes": 5184993,
+      "num_examples": 3219,
+      "dataset_name": "cmrc2018"
+    },
+    "test": {
+      "name": "test",
+      "num_bytes": 1607033,
+      "num_examples": 1002,
+      "dataset_name": "cmrc2018"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

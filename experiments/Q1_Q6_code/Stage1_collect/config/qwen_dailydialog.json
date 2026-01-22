@@ -1,0 +1,14 @@
+{
+  "model_id": "Qwen/Qwen1.5-MoE-A2.7B",
+  "dataset_config": {
+    "source": "local",
+    "name": "daily_dialog",
+    "local_path": "../datasets/daily_dialog",
+    "split": "train",
+    "text_field": "dialog",
+    "prompt_template": "Dialogue: {dialog}\nResponse:"
+  },
+  "max_samples": -1,
+  "batch_size": 4,
+  "max_length": 2048
+}

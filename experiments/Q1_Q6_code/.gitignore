@@ -1,0 +1,20 @@
+# Data files
+Stage1_collect/results/
+results_full/
+*.npz
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Temp files
+*.tmp
+*.log

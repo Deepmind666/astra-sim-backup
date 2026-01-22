@@ -1,0 +1,300 @@
+### winogrande_xl [0]
+Sentence: Ian volunteered to eat Dennis's menudo after already having a bowl because _ despised eating intestine.
+Option1: Ian
+Option2: Dennis
+Answer: 2
+
+### winogrande_xl [1]
+Sentence: Ian volunteered to eat Dennis's menudo after already having a bowl because _ enjoyed eating intestine.
+Option1: Ian
+Option2: Dennis
+Answer: 1
+
+### winogrande_xl [2]
+Sentence: He never comes to my home, but I always go to his house because the _ is smaller.
+Option1: home
+Option2: house
+Answer: 1
+
+### winogrande_xl [3]
+Sentence: He never comes to my home, but I always go to his house because the _ is bigger.
+Option1: home
+Option2: house
+Answer: 2
+
+### winogrande_xl [4]
+Sentence: Kyle doesn't wear leg warmers to bed, while Logan almost always does. _ is more likely to live in a colder climate.
+Option1: Kyle
+Option2: Logan
+Answer: 2
+
+### winogrande_xl [5]
+Sentence: Kyle doesn't wear leg warmers to bed, while Logan almost always does. _ is more likely to live in a warmer climate.
+Option1: Kyle
+Option2: Logan
+Answer: 1
+
+### winogrande_xl [6]
+Sentence: The GPS and map helped me navigate home.  I got lost when the _ got turned upside down.
+Option1: GPS
+Option2: map
+Answer: 2
+
+### winogrande_xl [7]
+Sentence: The GPS and map helped me navigate home.  I got lost when the _ got turned off.
+Option1: GPS
+Option2: map
+Answer: 1
+
+### winogrande_xl [8]
+Sentence: Emily looked up and saw Patricia racing by overhead, as _ was on the ramp .
+Option1: Emily
+Option2: Patricia
+Answer: 2
+
+### winogrande_xl [9]
+Sentence: Emily looked up and saw Patricia racing by overhead, as _ was under the ramp .
+Option1: Emily
+Option2: Patricia
+Answer: 1
+
+### winogrande_xl [10]
+Sentence: The treasury workers took the gold bars off of the trolley and stacked them in the safe until the _ was empty.
+Option1: safe
+Option2: trolley
+Answer: 2
+
+### winogrande_xl [11]
+Sentence: The treasury workers took the gold bars off of the trolley and stacked them in the safe until the _ was full.
+Option1: safe
+Option2: trolley
+Answer: 1
+
+### winogrande_xl [12]
+Sentence: He thought he had time to take the scenic route to the store, but the _ was under construction.
+Option1: route
+Option2: store
+Answer: 1
+
+### winogrande_xl [13]
+Sentence: He thought he had time to take the scenic route to the store, but the _ was closed early.
+Option1: route
+Option2: store
+Answer: 2
+
+### winogrande_xl [14]
+Sentence: She remembered how annoying it is to dust her wood chair so she bought a plastic table instead.  Cleaning the _ is quick.
+Option1: chair
+Option2: table
+Answer: 2
+
+### winogrande_xl [15]
+Sentence: She remembered how annoying it is to dust her wood chair so she bought a plastic table instead.  Cleaning the _ is time consuming.
+Option1: chair
+Option2: table
+Answer: 1
+
+### winogrande_xl [16]
+Sentence: To overcome behavioural bias, we need to focus more on changing the conscious actions instead of the unconscious actions because the _ actions are voluntary.
+Option1: unconscious
+Option2: conscious
+Answer: 2
+
+### winogrande_xl [17]
+Sentence: To overcome behavioural bias, we need to focus more on changing the conscious actions instead of the unconscious actions because the _ actions are involuntary.
+Option1: unconscious
+Option2: conscious
+Answer: 1
+
+### winogrande_xl [18]
+Sentence: Megan has a lot less money than Jessica because _ just bought the winning lottery ticket.
+Option1: Megan
+Option2: Jessica
+Answer: 2
+
+### winogrande_xl [19]
+Sentence: Megan has a lot more money than Jessica because _ just bought the winning lottery ticket.
+Option1: Megan
+Option2: Jessica
+Answer: 1
+
+### winogrande_xl [20]
+Sentence: I picked up a bag of peanuts and raisins for a snack. I wanted a sweeter snack out so I stored the _ for now.
+Option1: raisins
+Option2: peanuts
+Answer: 2
+
+### winogrande_xl [21]
+Sentence: I picked up a bag of peanuts and raisins for a snack. I wanted a sweeter snack out so I ate the _ for now.
+Option1: raisins
+Option2: peanuts
+Answer: 1
+
+### winogrande_xl [22]
+Sentence: Craig really loves to clean all the time but Derrick does not because _ is very neat.
+Option1: Craig
+Option2: Derrick
+Answer: 1
+
+### winogrande_xl [23]
+Sentence: Craig really loves to clean all the time but Derrick does not because _ is very untidy.
+Option1: Craig
+Option2: Derrick
+Answer: 2
+
+### winogrande_xl [24]
+Sentence: Dennis gave his hammer to Robert so he could hammer the nails. _ had plenty of hammers.
+Option1: Dennis
+Option2: Robert
+Answer: 1
+
+### winogrande_xl [25]
+Sentence: Dennis gave his hammer to Robert so he could hammer the nails. _ had no hammers.
+Option1: Dennis
+Option2: Robert
+Answer: 2
+
+### winogrande_xl [26]
+Sentence: The party was more interesting and uplifing than the funeral because the _ was rigid.
+Option1: party
+Option2: funeral
+Answer: 2
+
+### winogrande_xl [27]
+Sentence: The party was more interesting and uplifting than the funeral because the _ was flexible.
+Option1: party
+Option2: funeral
+Answer: 1
+
+### winogrande_xl [28]
+Sentence: The geese prefer to nest in the fields rather than the forests because in the _ predators are more hidden.
+Option1: fields
+Option2: forests
+Answer: 2
+
+### winogrande_xl [29]
+Sentence: The geese prefer to nest in the fields rather than the forests because in the _ predators are very visible.
+Option1: fields
+Option2: forests
+Answer: 1
+
+### winogrande_xl [30]
+Sentence: The plant took up too much room in the urn, because the _ was small.
+Option1: plant
+Option2: urn
+Answer: 2
+
+### winogrande_xl [31]
+Sentence: The plant took up too much room in the urn, because the _ was large.
+Option1: plant
+Option2: urn
+Answer: 1
+
+### winogrande_xl [32]
+Sentence: I installed a new bird house outside above the ground, but had to prop it up higher away from my cat since the _ was too low.
+Option1: bird house
+Option2: ground
+Answer: 1
+
+### winogrande_xl [33]
+Sentence: I installed a new bird house outside above the ground, but had to prop it up higher away from my cat since the _ was too high.
+Option1: bird house
+Option2: ground
+Answer: 2
+
+### winogrande_xl [34]
+Sentence: I prefer spa to the pool and I find the cold water in the _  not relaxing at the end of the day.
+Option1: spa
+Option2: pool
+Answer: 2
+
+### winogrande_xl [35]
+Sentence: I prefer spa to the pool and I find the hot water in the _ relaxing at the end of the day.
+Option1: spa
+Option2: pool
+Answer: 1
+
+### winogrande_xl [36]
+Sentence: Megan said it would be liberating to go out without makeup like Elena does. _ never wore makeup when she left the house.
+Option1: Megan
+Option2: Elena
+Answer: 2
+
+### winogrande_xl [37]
+Sentence: Megan said it would be liberating to go out without makeup like Elena does. _ always wore makeup when she left the house.
+Option1: Megan
+Option2: Elena
+Answer: 1
+
+### winogrande_xl [38]
+Sentence: Donald was richer than Leslie was because companies had found oil on the property of _ .
+Option1: Donald
+Option2: Leslie
+Answer: 1
+
+### winogrande_xl [39]
+Sentence: Donald was poorer than Leslie was because companies had found oil on the property of _ .
+Option1: Donald
+Option2: Leslie
+Answer: 2
+
+### winogrande_xl [40]
+Sentence: Feeling a draft, William asked Neil to please close the front door because _ was closer.
+Option1: William
+Option2: Neil
+Answer: 2
+
+### winogrande_xl [41]
+Sentence: Feeling a draft, William asked Neil to please close the front door because _ was farther away.
+Option1: William
+Option2: Neil
+Answer: 1
+
+### winogrande_xl [42]
+Sentence: Lindsey loved the taste of duck but Megan liked chicken better. _ ordered the kung pao chicken for dinner.
+Option1: Lindsey
+Option2: Megan
+Answer: 2
+
+### winogrande_xl [43]
+Sentence: Lindsey loved the taste of duck but Megan liked chicken better. _ ordered the Peking Duck for dinner.
+Option1: Lindsey
+Option2: Megan
+Answer: 1
+
+### winogrande_xl [44]
+Sentence: Elena would grab their inventory in the back of the store for Megan to sell each time because _ was a loyal customer.
+Option1: Elena
+Option2: Megan
+Answer: 2
+
+### winogrande_xl [45]
+Sentence: Elena would grab their inventory in the back of the store for Megan to sell each time because _ was a businessperson.
+Option1: Elena
+Option2: Megan
+Answer: 1
+
+### winogrande_xl [46]
+Sentence: Kenneth asked Dennis what time the dance was being held, but _ had forgotten.
+Option1: Kenneth
+Option2: Dennis
+Answer: 2
+
+### winogrande_xl [47]
+Sentence: Kenneth asked Dennis what time the dance was being held, because _ had forgotten.
+Option1: Kenneth
+Option2: Dennis
+Answer: 1
+
+### winogrande_xl [48]
+Sentence: Eric was teaching all of the proper stretches to Neil, because _ was using them to get paid.
+Option1: Eric
+Option2: Neil
+Answer: 1
+
+### winogrande_xl [49]
+Sentence: Eric was teaching all of the proper stretches to Neil, because _ was using them to get in shape.
+Option1: Eric
+Option2: Neil
+Answer: 2
+

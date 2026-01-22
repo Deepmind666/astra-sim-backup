@@ -1,0 +1,14 @@
+{
+  "model_id": "C:/astra-sim/experiments/model/Qwen1.5-MoE-A2.7B",
+  "dataset_config": {
+    "source": "huggingface",
+    "name": "winogrande",
+    "config": "winogrande_xl",
+    "split": "train",
+    "text_field": "sentence",
+    "prompt_template": "Sentence: {sentence}\nOption1: {option1}\nOption2: {option2}\nAnswer:"
+  },
+  "max_samples": -1,
+  "batch_size": 16,
+  "max_length": 2048
+}

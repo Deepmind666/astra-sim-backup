@@ -1,0 +1,13 @@
+{
+  "model_id": "C:/astra-sim/experiments/model/Qwen1.5-MoE-A2.7B",
+  "dataset_config": {
+    "source": "huggingface",
+    "name": "piqa",
+    "split": "train",
+    "text_field": "goal",
+    "prompt_template": "Goal: {goal}\nSolution1: {sol1}\nSolution2: {sol2}\nAnswer:"
+  },
+  "max_samples": -1,
+  "batch_size": 16,
+  "max_length": 2048
+}

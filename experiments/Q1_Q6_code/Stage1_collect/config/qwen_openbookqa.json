@@ -1,0 +1,14 @@
+{
+  "model_id": "Qwen/Qwen1.5-MoE-A2.7B",
+  "dataset_config": {
+    "source": "local",
+    "name": "openbookqa",
+    "local_path": "../datasets/openbookqa",
+    "split": "train",
+    "text_field": "question_stem",
+    "prompt_template": "Question: {question_stem}\nChoices: {choices}\nAnswer:"
+  },
+  "max_samples": -1,
+  "batch_size": 4,
+  "max_length": 2048
+}
